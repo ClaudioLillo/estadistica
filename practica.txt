@@ -1,0 +1,39 @@
+A)
+
+A partir de las variables percepcion_3 y seguridad_39_a determine si hay una relación entre la 
+percepción de necesidad de apoyo a las policías en barrios donde existe narcotráfico, y la 
+percepcion del futuro económico de los encuestados.
+
+
+
+Para ello
+
+1. Tabule ambas variables
+2. Recodifique seguridad_39_a en una variable llamada seguridad_redefinida, cumpliendo que:
+    - No sabe y No Contesta deben ser unidas en una categoría llamada "No Aplica"
+    - "Muy de acuerdo" se transformará en "MUCHO"
+    - "De acuerdo" se transformará en "SI"
+    - "En desacuerdo" se transformará en "NO"
+    - "Muy en desacuerdo" se transformará en "NUNCA"
+3. Recodifique percepcion_3 en una variable llamada percepcion_economica, cumpliendo que:
+    - "Mejorará" se transformará en "MEJOR"
+    - "No cambiará" se transformará en "IGUAL"
+    - "Empeorará" se transformará en "PEOR"
+    - "No sabe" se transformará en "No aplica"
+4. Para ambas variables redefinidas, elimine los datos faltantes (No aplica)
+5. Tabule ambas variables con y sin los datos faltantes
+6. Tabule los datos cruzados entre ambas variables redefinidas, incluyendo:
+    - frecuencia porcentual con respecto a la fila
+    - frecuencia porcentual con respecto a la columna
+    - frecuencia porcentual con respecto a las celdas
+7. Vuelva a tabular, incluyendo un test de Chi2
+8. Concluya si existe o no una relación entre las variables
+
+B)
+
+Considerando la variable numérica discreta edad, tabule la variable y determine
+- media
+- mediana
+- desviación estándar
+- varianza
+- percentiles 25, 50 y 75
