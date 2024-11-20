@@ -1,0 +1,22 @@
+Ejercicios práctica excel
+
+-Considere la fuente de datos encuesta.xlsx
+- Para realizar las tablas requeridas, utilice una hoja de cálculo adicional
+- Traspase los datos de una hoja a otra si es necesario
+
+1.
+
+- Agregue una nueva columna llamada "hijos más mascotas"
+- Rellene la columna con la suma de los hijos más las mascotas
+
+
+2.
+
+- Calcule la media, moda y mediana de la variable edad
+- Cree una tabla de frecuencia de la variable edad, agrupando los datos en 4 grupos
+- Grafique utilizando un histograma
+
+3.
+
+- Realice un diagrama de dispersión de vehículos contra edad
+
