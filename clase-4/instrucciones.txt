@@ -1,0 +1,16 @@
+Cómo interpretar la salida de Stata en un test de regresión lineal
+
+Hipótesis nula (H0): no hay correlación entre las variables
+Hipótesis alternativa (H1): si hay correlación entre las variables
+
+Si la significancia es mayor a 0.05 -> Se acepta la hipótesis nula
+Si la significancia es menor a 0.05 -> Se rechaza H0 y se acepta H1
+
+Este valor se obtiene desde la columna llamada "P>|t|"
+
+El valor de R ajustado, mientras más cercano a 1 es mejor, pero la significancia
+es lo verdaderamente importante para saber si la recta se ajusta a los datos.
+
+Se debe recordar que un valor de R negativo implica una relación inversa
+
+

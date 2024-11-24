@@ -1,0 +1,14 @@
+Ejercicio clase 4
+
+1. Descargue el archivo base-test.dta
+2. Cargue la nueva base de datos en stata
+3. Describa las variables presentes en la base
+
+4. Definir si existe una relación entre la edad y la glicemia
+    - determinar cuál es la variable dependiente e independiente
+    - realizar una regresión lineal
+    - graficar la dispersión de las variables junto con la línea de regresión
+
+5. Repetir el proceso para las variables ahorros y edad
+
+6. Presentar las conclusiones para ambos casos
